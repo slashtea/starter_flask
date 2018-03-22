@@ -25,4 +25,16 @@
 	      |__  run.py
 
 
+### Usage
 
+	pip -r requirements.txt
+
+* Use on of the venvs provided python2.7 or python3.4
+
+* Configure **SQLAlchemy_DATABASE_URI** in __init__.py.
+ 
+* Add some logic to your models and views.
+
+		python run.py
+
+ 
